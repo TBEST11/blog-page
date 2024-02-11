@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.post {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post h2 {
+    color: #333;
+}
+
+.post p {
+    color: #666;
+}
+
+.date {
+    font-size: 0.8em;
+    color: #999;
+}
+.profile-pic {
+    float: right;
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
